@@ -2,9 +2,9 @@
 /**
  * Plugin Name: GeneratePress Color Palette for WP Color Picker
  * Description: Integrates the GeneratePress Global Color Palette into the WordPress admin color picker (Iris).
- * Version: 1.0.0
- * Author: Your Name
- * License: MIT
+ * Version: 1.0.1
+ * Author: Weave Digital Studio
+ * License: GPL-2.0+
  * Text Domain: gp-color-picker
  */
 
